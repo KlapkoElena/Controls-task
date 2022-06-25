@@ -3,7 +3,7 @@ public class Payments {
     public static void main(String[] args) {
 
         // Способ оплаты
-        String payment = "card";
+        String payment = "cards";
 
         // Цена товара
         double priceProduct = 1520.50;
